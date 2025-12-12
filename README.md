@@ -29,5 +29,4 @@ It includes data preprocessing, EDA, feature engineering, ML modeling, MLflow ex
 
 ---
 
-## 📂 Folder Structure
 
